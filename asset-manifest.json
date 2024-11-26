@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Marcelo-Osorio/basic_react/static/css/main.860ce0f5.css",
-    "main.js": "/Marcelo-Osorio/basic_react/static/js/main.00b8de57.js",
-    "index.html": "/Marcelo-Osorio/basic_react/index.html",
-    "static/media/delete.svg": "/Marcelo-Osorio/basic_react/static/media/delete.d3c1ce1479527236662088282ab6d9f0.svg",
-    "static/media/check.svg": "/Marcelo-Osorio/basic_react/static/media/check.23635893d4531fc78dc705333b4f7b86.svg",
-    "main.860ce0f5.css.map": "/Marcelo-Osorio/basic_react/static/css/main.860ce0f5.css.map",
-    "main.00b8de57.js.map": "/Marcelo-Osorio/basic_react/static/js/main.00b8de57.js.map"
+    "main.css": "/basic_react/static/css/main.860ce0f5.css",
+    "main.js": "/basic_react/static/js/main.20c7bf37.js",
+    "index.html": "/basic_react/index.html",
+    "static/media/delete.svg": "/basic_react/static/media/delete.d3c1ce1479527236662088282ab6d9f0.svg",
+    "static/media/check.svg": "/basic_react/static/media/check.23635893d4531fc78dc705333b4f7b86.svg",
+    "main.860ce0f5.css.map": "/basic_react/static/css/main.860ce0f5.css.map",
+    "main.20c7bf37.js.map": "/basic_react/static/js/main.20c7bf37.js.map"
   },
   "entrypoints": [
     "static/css/main.860ce0f5.css",
-    "static/js/main.00b8de57.js"
+    "static/js/main.20c7bf37.js"
   ]
 }
